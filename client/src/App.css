@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  min-width: 50vw;
+  min-height: 50vh;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background: #f8f9fa;
+  border-radius: 15px;
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+  box-shadow: 0 10px 6px -6px #777;
+}
